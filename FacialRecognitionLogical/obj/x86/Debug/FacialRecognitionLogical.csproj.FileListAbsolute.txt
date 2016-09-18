@@ -1,0 +1,17 @@
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\bin\x86\Debug\FacialRecognitionLogical.dll
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\bin\x86\Debug\FacialRecognitionLogical.pdb
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\bin\x86\Debug\FacialRecognitionLogical.pri
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\FacialRecognitionLogical.csprojResolveAssemblyReference.cache
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\FacialRecognitionLogical.dll
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\FacialRecognitionLogical.pdb
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\priconfig.xml
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\priconfig.xml.intermediate
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\layout.resfiles
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\layout.resfiles.intermediate
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\resources.resfiles
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\resources.resfiles.intermediate
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\pri.resfiles
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\pri.resfiles.intermediate
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\qualifiers.txt
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

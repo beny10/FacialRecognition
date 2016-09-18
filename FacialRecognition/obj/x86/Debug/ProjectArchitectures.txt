@@ -1,0 +1,2 @@
+D:\Beni\C#\FacialRecognition\FacialRecognition\FacialRecognition.csproj;x86
+D:\Beni\C#\FacialRecognition\FacialRecognitionLogical\FacialRecognitionLogical.csproj;x86
